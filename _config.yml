@@ -21,7 +21,7 @@
 title: Tufapps
 email: tufanuyguner@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Tufapps is an independent developer, we make apps, games, websites and many other things.
+  Independent Developer
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: tufapps
